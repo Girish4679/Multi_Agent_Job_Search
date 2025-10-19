@@ -22,7 +22,7 @@ def fetch_usajobs(keyword, location='remote', results_per_page=5):
         return []
 
 if __name__ == "__main__":
-    jobs = fetch_usajobs('business analyst', location='New York', results_per_page=10)
+    jobs = fetch_usajobs('data scientist', location='New York', results_per_page=10)
     for job in jobs:
         title = job['MatchedObjectDescriptor']['PositionTitle']
         agency = job['MatchedObjectDescriptor']['OrganizationName']
