@@ -13,7 +13,7 @@ def get_jd_analyst_agent():
     )
     return agent
 
-def create_id_analysis_task(agent, job_desc):
+def create_jd_analysis_task(agent, job_desc):
     task = Task(
         description=f"""
         Analyze the following USAJobs job posting and extract:

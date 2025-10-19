@@ -1,8 +1,3 @@
-```markdown
-<<RESUME_SUMMARY>>
-Detail-oriented and analytical aspiring Business Analyst eager to contribute to the PALACE Acquire Program. Possessing a strong foundation in data analysis, business intelligence tools, and process improvement, I am committed to continuous learning and professional development. I am adept at transforming data into actionable insights and thrive in dynamic environments requiring adaptability and problem-solving. I am excited by the opportunity to leverage my skills and contribute to the program's goals while adhering to the highest ethical standards.
-
-<<COVER_LETTER>>
 [Your Name]
 [Your Address]
 [Your Phone Number]

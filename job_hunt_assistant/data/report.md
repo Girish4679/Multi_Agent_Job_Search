@@ -1,15 +1,26 @@
 ```markdown
-### Summary of the Role
-This is a one-year non-reimbursable assignment for a Program Analyst (Series 0343) with U.S. Citizenship and Immigration Services (USCIS). The position is virtual/remote, with the duty station being either Camp Springs, MD, or the employee's current duty station. This is a detail assignment, not a developmental rotation.
+## PALACE Acquire Program - Internship Summary
 
-### Qualifications
-*   Must be a current, full-time federal employee.
-*   Supervisory approval is required (signed form).
-*   U.S. Citizenship
+This program offers a permanent position upon completion of a formal training plan. As a Palace Acquire Intern, the role focuses on personal and professional growth, emphasizing dealing effectively and ethically with change, complexity, and problem-solving. The program includes a 3-year formal training plan with yearly salary increases. Promotions and salary increases are based upon successful performance and supervisory approval.
 
-### Required Skills
-*   Program Analysis skills related to the 0343 series.
+### Qualifications:
 
-### Responsibilities
-*   The job posting does not explicitly list responsibilities, but implies program analysis duties within USCIS. More specific responsibilities would likely be detailed in the full job description on USAJOBS.
+*   Successful performance during the 3-year training program.
+*   Supervisory approval.
+
+### Required Skills:
+
+*   Adaptability to change.
+*   Ability to handle complexity.
+*   Problem-solving skills.
+*   Ethical decision-making.
+
+### Responsibilities:
+
+*   Participate in a 3-year formal training plan.
+*   Demonstrate personal and professional growth.
+*   Effectively and ethically address change.
+*   Manage complex situations.
+*   Solve problems effectively.
+*   Meet performance standards for promotions and salary increases.
 ```
