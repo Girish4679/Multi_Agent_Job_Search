@@ -1,6 +1,7 @@
 import streamlit as st
 from orchestrator import run_pipeline
 from usajobs_api import fetch_usajobs
+from utils.resume_loader import get_resume_text
 
 st.set_page_config(page_title="AI Job Hunt Assistant", layout="centered")
 
@@ -10,7 +11,7 @@ st.markdown("Use AI agents to analyze jobs, tailor your resume, and write outrea
 # Input fields
 keyword = st.text_input("Job Keyword", "Software Engineer")
 location = st.text_input("Location", "New York")
-resume_text = st.text_area("Paste Your Resume", height=200)
+resume_text = get_resume_text()
 user_bio = st.text_input("Short Bio (for ourtreach tone)", "I'm a data professional passionate about public service")
 
 

@@ -35,5 +35,5 @@ def create_resume_cl_task(agent, job_summary, resume_text):
         <<COVER_LETTER>>
         [Your personalized cover letter here]
         """,
-        output_file='/data/resume_agent_output.txt'
+        output_file='/job_hunt_assistant/data/resume_agent_outputs/resume_agent_output.txt'
     )

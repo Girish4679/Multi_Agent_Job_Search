@@ -1,5 +1,6 @@
 from crewai import Task, Agent
 from utils.config import get_llm
+from pathlib import Path
 
 llm = get_llm()
 
@@ -24,6 +25,6 @@ def create_jd_analysis_task(agent, job_desc):
         """,
         expected_output="A structured markdown summary containing sections for Qualifications, Required Skills, and Responsibilities.",
         agent=agent,
-        output_file='data/report.md'
+        output_file='/job_hunt_assistant/data/reports/report.md'
     )
     return task
